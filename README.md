@@ -17,4 +17,4 @@ Esse projeto foi desenvolvido usando as seguintes tecnologias:
 
 ## Licença
 
-
+Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/felipe-rodsilva/wildbeast/blob/main/License.md">LICENSE</a> para mais detalhes.
